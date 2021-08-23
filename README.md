@@ -4,4 +4,5 @@ In this project, Swing has been used for the GUI part and for the networking por
 As of now, this game can be played using a localhost server (the local machine will act like a server), creating two client instances.
 But we have plans to host it globally so that it can be played using a remote, 24x7 online server.
 
-The other
+The other changes we have in mind are -
+1) Improving the game UI
