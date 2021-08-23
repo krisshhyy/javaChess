@@ -5,4 +5,7 @@ As of now, this game can be played using a localhost server (the local machine w
 But we have plans to host it globally so that it can be played using a remote, 24x7 online server.
 
 The other changes we have in mind are -
-1) Improving the game UI
+1) Improving the game UI.
+2) Making it a windows application.
+3) Storing the end results in a hosted database to introduce ranking system.
+4) Implementing the logics for Human vs Computer (for Offline mode).
